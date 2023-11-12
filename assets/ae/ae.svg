@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Ä&#8202;ä</text>
+    
+    <text x="70" y="120" class="audio-trigger">
+        &#x1F33E;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="aehre.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    <circle r="35" cx="85" cy="75" class="focus" />
+    
+    <text x="330" y="120" class="audio-trigger">
+        &#x1F455;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="aermel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    <circle r="25" cx="300" cy="70" class="focus" />
+    
+    <image href="aegypten.svg" x="30" y="180" width="100" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="aegypten.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F620;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="aerger.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

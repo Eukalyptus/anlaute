@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Eu&#8201;eu</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F989;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="eule.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <circle r="40" cx="70" cy="240" fill="gold" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="euro.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+    <circle r="28" cx="70" cy="240" fill="silver" class="audio-trigger no-shadow">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="euro.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+    <text x="67" y="254" style="font-size: 40px" class="audio-trigger no-shadow">
+        &#x20AC;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="euro.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <text x="300" y="80" style="font-family: Times; font-size: 20px">
+        e<tspan dy="-.4em">ix</tspan><tspan dy=".4em"> = cos&#8202;x + i sin&#8202;x</tspan>
+    </text>
+    <rect x="220" width="160" y="50" height="40" fill="rgba(0,0,0,0)" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="euler.m4a" type="audio/mp4" />
+        </audio>
+    </rect>
+    
+    <image href="eukalyptus.svg" x="280" y="190" width="100" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="eukalyptus.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

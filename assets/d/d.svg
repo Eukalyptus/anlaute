@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">D&#8201;d</text>
+    
+    <text x="70" y="90" class="audio-trigger">
+        &#x1F9A1;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="dachs.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F3E0;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="dach.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    <circle r="25" cx="310" cy="50" class="focus" />
+    
+    <text x="70" y="250" class="audio-trigger">
+        &#x1F996;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="dino.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger number">
+        3
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="drei.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

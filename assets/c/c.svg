@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">C&#8201;c</text>
+
+    <circle r="40" cx="70" cy="80" fill="#C76747" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="cent.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+    <circle r="33" cx="70" cy="80" fill="#D07050" class="audio-trigger no-shadow">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="cent.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+    <text x="70" y="90" style="font-size: 40px" class="audio-trigger no-shadow">
+        &#x00A2;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="cent.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <image href="crepe.svg" x="300" y="30" width="60" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="crep.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+    
+    <circle r="50" cx="330" cy="220" fill="cyan" class="audio-trigger color">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="cyan.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+    
+    <image href="cola.svg" x="50" y="150" width="41" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="cola.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

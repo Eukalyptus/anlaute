@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <style>
+        #cap {
+            fill: #9e7455;
+        }
+        #foot {
+            fill: #e6e6e6;
+        }
+    </style>
+
+    <path id="foot" d="M 31,60 C 30,90 32,90 30,95 C 32,100 68,100 70,95 C 68,88 68,90 68,60 z" />
+    <path id="cap" d="M 0,50 C 0,0 100,0 100,50 C 100,70 0,70 0,50 z" />
+</svg>

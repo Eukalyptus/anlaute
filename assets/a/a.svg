@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="200" y="185" class="anlaut">A&#8202;a</text>
+    
+    <text x="70" y="120" class="audio-trigger drop-shadow">
+        &#x1F34E;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="apfel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="200" y="80" class="audio-trigger drop-shadow">
+        &#x1F341;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="ahorn.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="120" class="audio-trigger drop-shadow">
+        &#x1F6A6;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="ampel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger drop-shadow">
+        &#x1F41C;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="ameise.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="200" y="280" class="audio-trigger number drop-shadow">
+        8
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="acht.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger drop-shadow">
+        &#x1F985;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="adler.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

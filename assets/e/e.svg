@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">E&#8201;e</text>
+    
+    <text x="70" y="110" class="audio-trigger">
+        &#x1F417;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="eber.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="110" class="audio-trigger">
+        &#x1F986;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="ente.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger number">
+        11
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="elf.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F353;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="erdbeere.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>
