@@ -17,15 +17,17 @@
         </audio>
     </text>
     
-    <text x="200" y="280" font-size="30px" class="audio-trigger" style="letter-spacing: -.14em">
+    <text x="200" y="280" font-size="30px" style="letter-spacing: -.14em">
         <tspan>&#x1F0A1;</tspan>
         <tspan fill="red">&#x1F0B1;</tspan>
         <tspan>&#x1F0D1;</tspan>
         <tspan fill="red">&#x1F0C1;</tspan>
+    </text>
+    <rect x="90" y="210" width="220" height="80" fill="rgba(0,0,0,0)" class="audio-trigger">
         <audio xmlns="http://www.w3.org/1999/xhtml">
             <source src="quartett.m4a" type="audio/mp4" />
         </audio>
-    </text>
+    </rect>
 
     <script href="../../voice-on-click.js"></script>
 </svg>
