@@ -37,9 +37,11 @@
         <style media="screen and (orientation: landscape)">
             object {
                 height: 100vh;
+                height: 100dvh;
             }
             a {
                 line-height: 100vh;
+                line-height: 100dvh;
                 width: 8ch;
             }
         </style>
@@ -49,6 +51,7 @@
             }
             object {
                 width: 100vw;
+                width: 100dvw;
             }
             a {
                 line-height: 2em;
@@ -89,8 +92,6 @@
                 $object.setAttribute('data', 'assets/' + letter + '/' + letter + '.svg');
                 $links[0].href = '#' + Anlaut.prev(letter);
                 $links[1].href = '#' + Anlaut.next(letter);
-
-                document.body.scrollTop = 10e5; // hack for tablets
             }
 
             const $links = document.querySelectorAll('a');
