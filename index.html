@@ -89,6 +89,8 @@
                 $object.setAttribute('data', 'assets/' + letter + '/' + letter + '.svg');
                 $links[0].href = '#' + Anlaut.prev(letter);
                 $links[1].href = '#' + Anlaut.next(letter);
+
+                document.body.scrollTop = 10e5; // hack for tablets
             }
 
             const $links = document.querySelectorAll('a');
