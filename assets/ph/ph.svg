@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Ph&#8201;ph</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x269B;&#xFE0F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="physik.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

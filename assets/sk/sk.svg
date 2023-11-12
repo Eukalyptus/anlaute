@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Sk&#8201;sk</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F982;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="skorpion.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x26F7;&#xFE0F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="ski.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="260" class="audio-trigger">
+        &#x1F6F9;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="skateboard.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="260" class="audio-trigger">
+        &#x1FAE2;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="skandal.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Sch&#8201;sch</text>
+    
+    <text x="70" y="80" class="audio-trigger">
+        &#x1F45E;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="schuh.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <circle r="50" cx="200" cy="60" fill="black" class="audio-trigger color">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="schwarz.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F98B;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="schmetterling.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger shadow">
+        &#x1F9A2;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="schwan.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F416;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="schwein.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

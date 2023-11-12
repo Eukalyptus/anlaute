@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">U&#8201;u</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x231A;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="uhr.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F6F8;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="ufo.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

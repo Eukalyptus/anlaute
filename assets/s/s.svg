@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">S&#8201;s</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1FA9A;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="saege.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger number">
+        6
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="sechs.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger number">
+        7
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="sieben.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F31E;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="sonne.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

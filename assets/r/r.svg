@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">R&#8201;r</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F339;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="rose.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x27A1;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="rechts.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger">
+        &#x1F680;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="rakete.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <circle r="50" cx="330" cy="220" fill="red" class="audio-trigger color">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="rot.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

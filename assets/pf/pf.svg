@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Pf&#8201;pf</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F99A;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="pfau.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F40E;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="pferd.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger">
+        &#x1F351;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="pfirsich.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F373;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="pfanne.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>
