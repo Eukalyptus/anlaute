@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">J&#8201;j</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F9E5;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="jacke.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F579;&#xFE0F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="joystick.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <circle r="20" cx="70" cy="250" fill="#d61f0f" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="johannisbeere.m4a" type="audio/mp4" />
+        </audio>
+    </circle>
+    <polygon points="83,240 86,242 85,245 82,245 80,242" transform="rotate(25)" transform-origin="84 242">
+        <audio xmlns="http://www.w3.org/1999/xhtml" class="audio-trigger no-shadow">
+            <source src="johannisbeere.m4a" type="audio/mp4" />
+        </audio>
+    </polygon>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1FA80;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="jojo.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

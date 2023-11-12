@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">I&#8201;i</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F994;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="igel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F3DD;&#xFE0F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="insel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <image href="iglo.svg" x="150" y="200" width="100" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="iglo.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

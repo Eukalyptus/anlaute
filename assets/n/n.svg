@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">N&#8201;n</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1FAA1;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="nadel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F99B;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="nilpferd.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger number">
+        0
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="null.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="200" y="270" class="audio-trigger">
+        &#x1F98F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="nashorn.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger number">
+        9
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="neun.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

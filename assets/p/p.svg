@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">P&#8201;p</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1FAD1;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="paprika.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F99C;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="papagei.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger">
+        &#x1F334;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="paprika.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F58C;&#xFE0F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="pinsel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

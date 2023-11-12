@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">H&#8201;h</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F407;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="hase.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F439;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="hamster.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger">
+        &#x1F98C;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="hirsch.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F414;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="huhn.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

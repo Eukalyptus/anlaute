@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">K&#8201;k</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F408;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="katze.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="200" y="90" class="audio-trigger">
+        &#x1F352;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="kirsche.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="100" class="audio-trigger">
+        &#x1F56F;&#xFE0F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="kerze.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="250" class="audio-trigger">
+        &#x1F383;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="kuerbis.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="200" y="270" class="audio-trigger">
+        &#x1F370;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="kuchen.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x26EA;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="kirche.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>
