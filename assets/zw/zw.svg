@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+    <style>
+        #zwieback {
+            fill: #eaa223;
+            stroke: #d38b1d;
+            stroke-width: 6px;
+        }
+    </style>
+
+    <text x="202" y="185">Zw&#8201;zw</text>
+    
+    <text x="70" y="100" class="audio-trigger number">
+        20
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zwanzig.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <path id="zwieback" d="M35 10c-15 0-25 13-25 25 0 6 2 11 5 15v50c0 5 5 10 10 10h70c5 0 10-5 10-10V50c3-4 5-9 5-15 0-12-10-25-25-25z" class="audio-trigger" transform="translate(270 10)">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zwieback.m4a" type="audio/mp4" />
+        </audio>
+    </path>
+    
+    <text x="330" y="270" class="audio-trigger number">
+        2
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zwei.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="70" y="270" class="audio-trigger">
+        &#x1F9C5;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zwiebel.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

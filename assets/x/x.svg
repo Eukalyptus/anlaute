@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">X&#8201;x</text>
+    
+    <image href="xylophon.svg" x="76" y="190" width="248" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="xylophon.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>

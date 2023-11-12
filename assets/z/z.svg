@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Z&#8201;z</text>
+    
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F993;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zebra.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="200" y="90" class="audio-trigger number">
+        10
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zehn.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <polygon points="315,30 385,30 400,130 300,130" fill="#505050" class="audio-trigger" transform="translate(-10)">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zebrastreifen.m4a" type="audio/mp4" />
+        </audio>
+    </polygon>
+    <polygon points="330,30 343,30 340,130 320,130" fill="#a0a0a0" class="audio-trigger no-shadow" transform="translate(-10)">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zebrastreifen.m4a" type="audio/mp4" />
+        </audio>
+    </polygon>
+    <polygon points="357,30 370,30 380,130 360,130" fill="#a0a0a0" class="audio-trigger no-shadow" transform="translate(-10)">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zebrastreifen.m4a" type="audio/mp4" />
+        </audio>
+    </polygon>
+    
+    <text x="70" y="250" class="audio-trigger">
+        &#x1F685;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zug.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <text x="330" y="250" class="audio-trigger">
+        &#x1F34B;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="zitrone.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>
