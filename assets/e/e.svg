@@ -10,6 +10,13 @@
         </audio>
     </text>
     
+    <text x="200" y="90" class="audio-trigger">
+        &#x1F95C;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="erdnuss.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
     <text x="330" y="110" class="audio-trigger">
         &#x1F986;
         <audio xmlns="http://www.w3.org/1999/xhtml">

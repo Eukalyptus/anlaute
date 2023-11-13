@@ -9,6 +9,12 @@
             <source src="physik.m4a" type="audio/mp4" />
         </audio>
     </text>
+    
+    <image href="pharao.svg" x="300" y="10" width="100" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="pharao.m4a" type="audio/mp4" />
+        </audio>
+    </image>
 
     <script href="../../voice-on-click.js"></script>
 </svg>

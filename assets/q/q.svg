@@ -10,14 +10,14 @@
         </audio>
     </text>
     
-    <text x="300" y="80" font-size="30px" class="audio-trigger" style="letter-spacing: -.3em">
+    <text x="300" y="80" class="audio-trigger" style="font-size: 60px; letter-spacing: -.3em">
         &#x1F5E8;&#xFE0F;<tspan dy=".8em">&#x1F986;</tspan>
         <audio xmlns="http://www.w3.org/1999/xhtml">
             <source src="quack.m4a" type="audio/mp4" />
         </audio>
     </text>
     
-    <text x="200" y="280" font-size="30px" style="letter-spacing: -.14em">
+    <text x="200" y="280" style="letter-spacing: -.14em">
         <tspan>&#x1F0A1;</tspan>
         <tspan fill="red">&#x1F0B1;</tspan>
         <tspan>&#x1F0D1;</tspan>
