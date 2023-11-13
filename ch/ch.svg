@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="202" y="185">Ch&#8201;ch</text>
+
+    <text x="70" y="100" class="audio-trigger">
+        &#x1F336;&#xFE0F;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="chili.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+    
+    <image href="champignon.svg" x="290" y="30" width="100" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="champignon.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+    
+    <image href="chinchilla.svg" x="0" y="180" width="160" class="audio-trigger">
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="chinchilla.m4a" type="audio/mp4" />
+        </audio>
+    </image>
+
+    <text x="330" y="270" class="audio-trigger">
+        &#x1F947;
+        <audio xmlns="http://www.w3.org/1999/xhtml">
+            <source src="champion.m4a" type="audio/mp4" />
+        </audio>
+    </text>
+
+    <script href="../../voice-on-click.js"></script>
+</svg>
