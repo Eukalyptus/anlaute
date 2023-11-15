@@ -1,12 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <style>
         text {
+            text-align: center;
+            text-anchor: middle;
+        }
+        #apple {
             fill: #ff4040;
             font-size: 80px;
-            text-align: center;
-            text-anchor: middle
+        }
+        #anlaut {
+            fill: white;
+            font-size: 50px;
         }
     </style>
 
-    <text x="50" y="80">&#x1F34E;&#xfe0e;</text>
+    <text id="apple" x="50" y="80">&#x1F34E;&#xfe0e;</text>
+    <text id="anlaut" x="49" y="75">A</text>
 </svg>
