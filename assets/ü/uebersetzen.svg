@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <style>
+        text {
+            font-family: Roboto, Helvetica, Arial, sans-serif;
+            font-size: 60px;
+            letter-spacing: -.25em;
+            text-align: center;
+            text-anchor: middle;
+        }
+    </style>
+
+    <text x="50" y="60" fill="#2070f0">
+        文<tspan dy="0.5em">A</tspan>
+    </text>
+</svg>

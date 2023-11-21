@@ -1,0 +1,313 @@
+{
+    "anlaute": ["a", "ä", "au", "b", "c", "ch", "d", "e", "ei", "eu", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "ö", "p", "pf", "ph", "q", "r", "s", "sch", "sk", "sp", "st", "t", "th", "u", "ü", "v", "w", "x", "y", "z", "zw"],
+    "prevButtonLabel": "zurück",
+    "nextButtonLabel": "weiter",
+    "dict": {
+        "a" : [
+            {"name": "apfel", "code": "&#x1F34E;"},
+            {"name": "ahorn", "code": "&#x1F341;"},
+            {"name": "affe", "code": "🐒"},
+            {"name": "ampel", "code": "&#x1F6A6;"},
+            {"name": "ameise", "code": "&#x1F41C;"},
+            {"name": "acht", "code": "8", "classes": "number"},
+            {"name": "adler", "code": "&#x1F985;"},
+            {"name": "ananas", "code": "&#x1F34D;"}
+        ],
+        "ä" : [
+            {"name": "aegypten", "width": 100, "offsets": {"x": 0, "y": 15}},
+            {"name": "aehre", "code": "&#x1F33E;"},
+            {"name": "aerger", "code": "&#x1F620;"},
+            {"name": "aermel", "code": "&#x1F455;", "focus": {"r": 25, "dx": -30, "dy": -50}}
+        ],
+        "au": [
+            {"name": "aubergine", "code": "🍆"},
+            {"name": "aufschnitt", "width": 100, "offsets": {"x": 0, "y": 50}},
+            {"name": "auto", "code": "🚗"},
+            {"name": "auster", "code": "🦪"}
+        ],
+        "b": [
+            {"name": "banane", "code": "🍌"},
+            {"name": "buch", "code": "📖"},
+            {"name": "ball", "code": "🏀"},
+            {"name": "baer", "code": "🐻"},
+            {"name": "biene", "code": "🐝"},
+            {"name": "bieber", "code": "🦫"},
+            {"name": "bock", "code": "🐏"},
+            {"name": "blau", "fill": "blue"}
+        ],
+        "c": [
+            {"name": "clown", "code": "🤡"},
+            {"name": "cent", "width": 100, "offsets": {"x": 0, "y": 0}},
+            {"name": "crep", "width": 60, "offsets": {"x": 15, "y": -5}},
+            {"name": "cola", "width": 41, "offsets": {"x": 20, "y": -15}},
+            {"name": "cyan", "fill": "cyan"}
+        ],
+        "ch": [
+            {"name": "chili", "code": "🌶️"},
+            {"name": "champignon", "width": 100, "offsets": {"x": 0, "y": 0}},
+            {"name": "chinchilla", "width": 150, "offsets": {"x": -20, "y": 0}},
+            {"name": "champion", "code": "🥇"}
+        ],
+        "d": [
+            {"name": "dachs", "code": "🦡"},
+            {"name": "dach", "code": "🏠"},
+            {"name": "dino", "code": "🦖"},
+            {"name": "dromedar", "code": "🐪"},
+            {"name": "delfin", "code": "🐋"},
+            {"name": "drache", "code": "🐉"},
+            {"name": "dodo", "code": "&#x1F9A4;"},
+            {"name": "deutschland", "code": "&#x1F1E9;&#x1F1EA;"},
+            {"name": "drei", "code": "3", "classes": "number"}
+        ],
+        "e": [
+            {"name": "eber", "code": "🐗"},
+            {"name": "erdnuss", "code": "🥜"},
+            {"name": "engel", "code": "👼"},
+            {"name": "ente", "code": "🦆"},
+            {"name": "elsch", "code": "🫎"},
+            {"name": "esel", "code": "&#x1FACF;"},
+            {"name": "elf", "code": "11", "classes": "number"},
+            {"name": "erdbeere", "code": "🍓"}
+        ],
+        "ei": [
+            {"name": "einbahnstraße", "code": "⛔"},
+            {"name": "ei", "code": "🥚"},
+            {"name": "eis", "code": "🍨"},
+            {"name": "eichhoernchen", "code": "🐿️"},
+            {"name": "einhorn", "code": "🦄"},
+            {"name": "eisaer", "code": "🐻‍❄️"},
+            {"name": "eins", "code": "1", "classes": "number"}
+        ],
+        "eu": [
+            {"name": "eule", "code": "🦉"},
+            {"name": "euler", "width": 140, "offsets": {"x": -22, "y": 35}},
+            {"name": "euro", "width": 100, "offsets": {"x": 0, "y": 0}},
+            {"name": "eukalyptus", "width": 100, "offsets": {"x": 0, "y": 0}}
+        ],
+        "f": [
+            {"name": "faden", "code": "🧵"},
+            {"name": "fahne", "code": "🏳️"},
+            {"name": "frosch", "code": "🐸"},
+            {"name": "fuchs", "code": "🦊"},
+            {"name": "faultier", "code": "🦥"},
+            {"name": "fee", "code": "🧚"},
+            {"name": "fisch", "code": "🐟"},
+            {"name": "flugzeug", "code": "✈️"},
+            {"name": "fuenf", "code": "5", "classes": "number"}
+        ],
+        "g": [
+            {"name": "giraffe", "code": "🦒"},
+            {"name": "gurke", "code": "🥒"},
+            {"name": "grille", "code": "🦗"},
+            {"name": "geist", "code": "👻"},
+            {"name": "gorilla", "code": "🦍"},
+            {"name": "gans", "code": "🪿"},
+            {"name": "gruen", "fill": "green"},
+            {"name": "grau", "fill": "gray"},
+            {"name": "gelb", "fill": "yellow"}
+        ],
+        "h": [
+            {"name": "hase", "code": "🐇"},
+            {"name": "hamster", "code": "🐹"},
+            {"name": "hirsch", "code": "🦌"},
+            {"name": "hemd", "code": "👔"},
+            {"name": "huhn", "code": "🐔"},
+            {"name": "hummer", "code": "🦞"},
+            {"name": "hai", "code": "🦈"},
+            {"name": "hahn", "code": "🐓"}
+        ],
+        "i": [
+            {"name": "igel", "code": "🦔"},
+            {"name": "insel", "code": "🏝️"},
+            {"name": "iglo", "width": 100, "offsets": {"x": 0, "y": 10}}
+        ],
+        "j": [
+            {"name": "jacke", "code": "🧥"},
+            {"name": "joystick", "code": "🕹️"},
+            {"name": "joker", "code": "🃏"},
+            {"name": "jojo", "code": "🪀"}
+            
+        ],
+        "k": [
+            {"name": "katze", "code": "🐈"},
+            {"name": "kirsche", "code": "🍒"},
+            {"name": "kerze", "code": "🕯️"},
+            {"name": "kuerbis", "code": "🎃"},
+            {"name": "kuchen", "code": "🍰"},
+            {"name": "koala", "code": "🐨"},
+            {"name": "kroodil", "code": "🐊"},
+            {"name": "kiefer", "code": "🌲"},
+            {"name": "kuh", "code": "🐄"},
+            {"name": "kirche", "code": "⛪"}
+        ],
+        "l": [
+            {"name": "laterne", "code": "🏮"},
+            {"name": "luftballon", "code": "🎈"},
+            {"name": "lachen", "code": "😀"},
+            {"name": "links", "code": "⬅"},
+            {"name": "loeffel", "code": "🥄"},
+            {"name": "leopard", "code": "🐆"},
+            {"name": "lama", "code": "🦙"},
+            {"name": "loewe", "code": "🦁"}
+        ],
+        "m": [
+            {"name": "maus", "code": "🐭"},
+            {"name": "messer", "code": "🔪"},
+            {"name": "melone", "code": "🍈"},
+            {"name": "maikaefer", "code": "🐞"},
+            {"name": "mond", "code": "🌙"}
+        ],
+        "n": [
+            {"name": "nadel", "code": "🪡"},
+            {"name": "niederlande", "code": "🇳🇱"},
+            {"name": "nilpferd", "code": "🦛"},
+            {"name": "null", "code": "0", "classes": "number"},
+            {"name": "nashorn", "code": "🦏"},
+            {"name": "neun", "code": "9", "classes": "number"}
+        ],
+        "o": [
+            {"name": "orange", "code": "🍊"},
+            {"name": "otter", "code": "🦦"},
+            {"name": "ochse", "code": "🐂"},
+            {"name": "oktopus", "code": "🐙"},
+            {"name": "orang-utan", "code": "🦧"},
+            {"name": "orange2", "fill": "orange"}
+        ],
+        "ö": [
+            {"name": "oedland", "code": "🏜️"},
+            {"name": "oehr", "code": "🪡", "focus": {"r": 20, "dx": 25, "dy": -55}},
+            {"name": "oel", "code": "🛢️"}
+        ],
+        "p": [
+            {"name": "paprika", "code": "🫑"},
+            {"name": "papagei", "code": "🦜"},
+            {"name": "palme", "code": "🌴"},
+            {"name": "pinguin", "code": "🐧"},
+            {"name": "polizei", "code": "👮"},
+            {"name": "panda", "code": "🐼"},
+            {"name": "pudel", "code": "🐩"},
+            {"name": "pinsel", "code": "🖌️"}
+        ],
+        "pf": [
+            {"name": "pfau", "code": "🦚"},
+            {"name": "pferd", "code": "🐎"},
+            {"name": "pfirsich", "code": "🍑"},
+            {"name": "pfanne", "code": "🍳"}
+        ],
+        "ph": [
+            {"name": "physik", "code": "⚛️"},
+            {"name": "pharao", "width": 80, "offsets": {"x": 10, "y": 0}},
+            {"name": "physalis", "width": 100, "offsets": {"x": 0, "y": 0}}
+        ],
+        "q": [
+            {"name": "qualle", "code": "🪼"},
+            {"name": "quack", "width": 100, "offsets": {"x": 0, "y": 0}},
+            {"name": "quartett", "width": 100, "offsets": {"x": 0, "y": 0}}
+        ],
+        "r": [
+            {"name": "rose", "code": "🌹"},
+            {"name": "rechts", "code": "➡"},
+            {"name": "rakete", "code": "🚀"},
+            {"name": "robbe", "code": "🦭"},
+            {"name": "rot", "fill": "red"}
+        ],
+        "s": [
+            {"name": "saege", "code": "🪚"},
+            {"name": "sonnenblume", "code": "🌻"},
+            {"name": "sechs", "code": "6", "classes": "number"},
+            {"name": "sieben", "code": "7", "classes": "number"},
+            {"name": "sonne", "code": "🌞"}
+        ],
+        "sch": [
+            {"name": "schuh", "code": "👞"},
+            {"name": "schleife", "code": "🎀"},
+            {"name": "schmetterling", "code": "🦋"},
+            {"name": "schwan", "code": "🦢"},
+            {"name": "schwein", "code": "🐖"},
+            {"name": "schaf", "code": "🐑"},
+            {"name": "schwarz", "fill": "black"}
+        ],
+        "sk": [
+            {"name": "skorpion", "code": "🦂"},
+            {"name": "ski", "code": "⛷️"},
+            {"name": "skateboard", "code": "🛹"},
+            {"name": "skandal", "code": "🫢"}
+        ],
+        "sp": [
+            {"name": "spinne", "code": "🕷️"},
+            {"name": "speck", "code": "🥓"},
+            {"name": "sport", "width": 100}
+        ],
+        "st": [
+            {"name": "stern", "code": "⭐"},
+            {"name": "stein", "code": "🪨"},
+            {"name": "stinktier", "code": "🦨"},
+            {"name": "stopp", "code": "🛑"},
+            {"name": "stadium", "code": "🏟️"}
+        ],
+        "t": [
+            {"name": "taco", "code": "🌮"},
+            {"name": "tanne", "code": "🌲"},
+            {"name": "taxi", "code": "🚕"},
+            {"name": "tiger", "code": "🐅"},
+            {"name": "trampeltier", "code": "🐫"},
+            {"name": "tintenfisch", "code": "🦑"},
+            {"name": "tomate", "code": "🍅"},
+            {"name": "traube", "code": "🍇"}
+        ],
+        "th": [
+            {"name": "theater", "code": "🎭"},
+            {"name": "theorie", "code": "📚"},
+            {"name": "theke", "width": 100, "offsets": {"x": 0, "y": 40}}
+        ],
+        "u": [
+            {"name": "uhr", "code": "⌚"},
+            {"name": "ufo", "code": "🛸"},
+            {"name": "untersetzer", "code": "🥛"},
+            {"name": "uhu", "code": "🦉"}
+        ],
+        "ü": [
+            {"name": "ue-ei", "width": 70},
+            {"name": "uebergeben", "code": "🤮"},
+            {"name": "uebersetzen", "width": 100}
+        ],
+        "v": [
+            {"name": "vogel", "code": "🐦"},
+            {"name": "vier", "code": "4", "classes": "number"},
+            {"name": "vollmond", "code": "🌕"},
+            {"name": "violet", "fill": "violet"}
+        ],
+        "w": [
+            {"name": "wassermelone", "code": "🍉"},
+            {"name": "weinen", "code": "😭"},
+            {"name": "weihnachtsmann", "code": "🎅"},
+            {"name": "wuerfel", "code": "🎲"},
+            {"name": "waschbär", "code": "🦝"},
+            {"name": "wal", "code": "🐋"},
+            {"name": "weiss", "fill": "white"}
+        ],
+        "x": [
+            {"name": "xylophon", "width": 248, "offsets": {"x": 56, "y": 0}}
+        ],
+        "y": [
+            {"name": "yinyang", "code": "☯", "classes": "no-shadow"},
+            {"name": "yoga", "code": "🧘🏻"},
+            {"name": "yacht", "code": "🛥️"}
+        ],
+        "z": [
+            {"name": "zebra", "code": "🦓"},
+            {"name": "zahn", "code": "🦷"},
+            {"name": "zehn", "code": "10", "classes": "number"},
+            {"name": "zug", "code": "🚅"},
+            {"name": "zitrone", "code": "🍋"},
+            {"name": "ziege", "code": "🐐"},
+            {"name": "zebrastreifen", "width": 100, "offsets": {"x": 0, "y": 0}}
+        ],
+        "zw": [
+            {"name": "zwanzig", "code": "20", "classes": "number"},
+            {"name": "zwei", "code": "2", "classes": "number"},
+            {"name": "zwiebel", "code": "🧅"},
+            {"name": "zwieback", "width": 80, "offsets": {"x": 0, "y": 15}}
+        ]
+    }
+}

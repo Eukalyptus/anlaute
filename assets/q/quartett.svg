@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <style>
+        text {
+            font-family: Roboto, Helvetica, Arial, sans-serif;
+            font-size: 30px;
+            text-align: center;
+            text-anchor: middle;
+            transform-origin: center;
+        }
+        .bg {
+            fill: blue;
+        }
+    </style>
+
+    <text x="28" y="81" rotate="-30">
+        &#x1F0A1;
+    </text>
+
+    <text x="35" y="40" fill="red" rotate="-10">
+        &#x1F0B1;
+    </text>
+
+    <text x="65" y="36" rotate="10">
+        &#x1F0D1;
+    </text>
+
+    <text x="77" y="70" fill="red"  rotate="30">
+        &#x1F0C1;
+    </text>
+</svg>

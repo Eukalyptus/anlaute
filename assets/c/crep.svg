@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 120">
+    <style>
+        ellipse, path {
+            fill: #ffa828;
+            stroke: #fce8c3;
+            stroke-width: 5;
+        }
+
+        #choco {
+            stroke: #cf701e;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+    </style>
+
+    <path d="M 30,5 L 30,115 L 60,5 z" />
+    <ellipse rx="25" ry="10" cx="30" cy="15" />
+    <path d="M 5,15 L 30,115 L 55,15" />
+
+    <path id="choco" d="M 15,20 l 30,7 l -25,15 l 20,7 l -17,10 l 12,5 l -8,6 l 5,3 l -3,7 l 2,5 l -1,4" />
+</svg>

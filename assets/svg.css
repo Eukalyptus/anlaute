@@ -2,11 +2,7 @@ text {
     font-family: Roboto, Helvetica, Arial, sans-serif;
     font-size: 80px;
     text-align: center;
-    text-anchor: middle
-}
-
-.anlaut {
-    font-size: 100px
+    text-anchor: middle;
 }
 
 .number {

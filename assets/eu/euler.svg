@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40">
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="../svg.css" />
+
+    <text x="80" y="25" style="font-family: Times; font-size: 20px; text-align: center; text-anchor: middle;">
+        e<tspan dy="-.4em">ix</tspan><tspan dy=".4em"> = cos&#8202;x + i sin&#8202;x</tspan>
+    </text>
+</svg>

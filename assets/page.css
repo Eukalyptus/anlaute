@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f0f0f0 url('bg.svg') repeat;
+    background-size: 2em;
+    display: flex;
+    height: 100vh;
+    height: 100dvh;
+    justify-content: space-between;
+    position: relative;
+}
+
+object {
+    left: 50%;
+    object-position: 50% 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    background: rgba(25, 25, 255, 1);
+    color: #fff;
+    text-align: center;
+    text-decoration: underline;
+}
+
+@media screen and (orientation: landscape) {
+    object {
+        height: 100vh;
+        height: 100dvh;
+    }
+
+    a {
+        line-height: 100vh;
+        line-height: 100dvh;
+        width: 8ch;
+    }
+}
+
+@media screen and (orientation: portrait) {
+    body {
+        flex-direction: column;
+    }
+
+    object {
+        width: 100vw;
+        width: 100dvw;
+    }
+
+    a {
+        line-height: 2em;
+    }
+}

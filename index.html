@@ -4,103 +4,26 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image/svg" href="assets/favicon.svg">
 
         <title>Anlaute</title>
 
-        <style>
-            * {
-                margin: 0;
-                padding: 0;
-            }
-            body {
-                background: #f0f0f0 url('assets/bg.svg') repeat;
-                background-size: 2em;
-                display: flex;
-                height: 100vh;
-                height: 100dvh;
-                justify-content: space-between;
-                position: relative;
-            }
-            object {
-                left: 50%;
-                object-position: 50% 50%;
-                position: absolute;
-                top: 50%;
-                transform: translate(-50%, -50%);
-            }
-            a {
-                background: rgba(25, 25, 255, 1);
-                color: #fff;
-                text-align: center;
-                text-decoration: underline;
-            }
-        </style>
-        <style media="screen and (orientation: landscape)">
-            object {
-                height: 100vh;
-                height: 100dvh;
-            }
-            a {
-                line-height: 100vh;
-                line-height: 100dvh;
-                width: 8ch;
-            }
-        </style>
-        <style media="screen and (orientation: portrait)">
-            body {
-                flex-direction: column;
-            }
-            object {
-                width: 100vw;
-                width: 100dvw;
-            }
-            a {
-                line-height: 2em;
-            }
-        </style>
+        <link rel="icon" type="image/svg" href="assets/favicon.svg">
+        <link rel="stylesheet" href="assets/page.css">
+        <link rel="stylesheet" href="assets/svg.css">
     </head>
 
     <body>
-        <a href="#zw">zurück</a>
-        <object data="assets/a/a.svg" type="image/svg+xml"></object>
-        <a href="#ae">weiter</a>
+        <a id="prev" href=""></a>
 
-        <script>
-            class Anlaut {
-                static #values = ['a', 'ae', 'au', 'b', 'c', 'ch', 'd', 'e', 'ei', 'eu', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'oe', 'p', 'pf', 'ph', 'q', 'r', 's', 'sch', 'sk', 'sp', 'st', 't', 'th', 'u', 'ue', 'v', 'w', 'x', 'y', 'z', 'zw'];
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+            <text x="200" y="185" id="anlaut"><tspan id="capital-letter"></tspan>&#8202;<tspan id="small-letter"></text>
+            
+            <g id="symbols"></g>
+        </svg>
 
-                static #indexRing(index) {
-                    return index < 0 ? this.#values.length - 1 : index % this.#values.length;
-                }
+        <a id="next" href=""></a>
 
-                static next(letter) {
-                    const index = this.#values.indexOf(letter) + 1;
-
-                    return this.#values[this.#indexRing(index)];
-                }
-
-                static prev(letter) {
-                    const index = this.#values.indexOf(letter) - 1;
-
-                    return this.#values[this.#indexRing(index)];
-                }
-            }
-
-            function updateRefs() {
-                const hash = window.location.hash;
-                const letter = hash === '' ? 'a' : hash.slice(1).toLowerCase();
-
-                $object.setAttribute('data', 'assets/' + letter + '/' + letter + '.svg');
-                $links[0].href = '#' + Anlaut.prev(letter);
-                $links[1].href = '#' + Anlaut.next(letter);
-            }
-
-            const $links = document.querySelectorAll('a');
-            const $object = document.querySelector('object');
-
-            addEventListener('hashchange', updateRefs);
-            addEventListener('load', updateRefs);
-        </script>
+        <script src="symbol-drawer.js"></script>
+        <script src="event-controller.js"></script>
     </body>
 </html>
