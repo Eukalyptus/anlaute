@@ -170,7 +170,7 @@
             {"name": "otter", "code": "🦦"},
             {"name": "ochse", "code": "🐂"},
             {"name": "oktopus", "code": "🐙"},
-            {"name": "orang-utan", "code": "🦧"},
+            {"name": "orangutan", "code": "🦧"},
             {"name": "orange2", "fill": "orange"}
         ],
         "ö": [
@@ -236,7 +236,7 @@
         "sp": [
             {"name": "spinne", "code": "🕷️"},
             {"name": "speck", "code": "🥓"},
-            {"name": "sport", "width": 100}
+            {"name": "sport", "width": 100, "offsets": {"x": 0, "y": 0}}
         ],
         "st": [
             {"name": "stern", "code": "⭐"},
@@ -263,13 +263,13 @@
         "u": [
             {"name": "uhr", "code": "⌚"},
             {"name": "ufo", "code": "🛸"},
-            {"name": "untersetzer", "code": "🥛"},
+            {"name": "untersetzer", "width": 100, "offsets": {"x": 0, "y": 0}},
             {"name": "uhu", "code": "🦉"}
         ],
         "ü": [
-            {"name": "ue-ei", "width": 70},
+            {"name": "ue-ei", "width": 70, "offsets": {"x": 0, "y": 0}},
             {"name": "uebergeben", "code": "🤮"},
-            {"name": "uebersetzen", "width": 100}
+            {"name": "uebersetzen", "width": 100, "offsets": {"x": 0, "y": 0}}
         ],
         "v": [
             {"name": "vogel", "code": "🐦"},
@@ -282,7 +282,7 @@
             {"name": "weinen", "code": "😭"},
             {"name": "weihnachtsmann", "code": "🎅"},
             {"name": "wuerfel", "code": "🎲"},
-            {"name": "waschbär", "code": "🦝"},
+            {"name": "waschbaer", "code": "🦝"},
             {"name": "wal", "code": "🐋"},
             {"name": "weiss", "fill": "white"}
         ],
