@@ -6,6 +6,7 @@
         "a" : [
             {"name": "apfel", "code": "&#x1F34E;"},
             {"name": "ahorn", "code": "&#x1F341;"},
+            {"name": "arm", "code": "💪"},
             {"name": "affe", "code": "🐒"},
             {"name": "ampel", "code": "&#x1F6A6;"},
             {"name": "ameise", "code": "&#x1F41C;"},
@@ -23,6 +24,7 @@
             {"name": "aubergine", "code": "🍆"},
             {"name": "aufschnitt", "width": 100, "offsets": {"x": 0, "y": 50}},
             {"name": "auto", "code": "🚗"},
+            {"name": "auge", "code": "👁️"},
             {"name": "auster", "code": "🦪"}
         ],
         "b": [
@@ -30,6 +32,7 @@
             {"name": "buch", "code": "📖"},
             {"name": "ball", "code": "🏀"},
             {"name": "baer", "code": "🐻"},
+            {"name": "bein", "code": "🦵"},
             {"name": "biene", "code": "🐝"},
             {"name": "bieber", "code": "🦫"},
             {"name": "bock", "code": "🐏"},
@@ -113,6 +116,7 @@
             {"name": "hemd", "code": "👔"},
             {"name": "huhn", "code": "🐔"},
             {"name": "hummer", "code": "🦞"},
+            {"name": "hut", "code": "👒"},
             {"name": "hai", "code": "🦈"},
             {"name": "hahn", "code": "🐓"}
         ],
@@ -146,6 +150,7 @@
             {"name": "lachen", "code": "😀"},
             {"name": "links", "code": "⬅"},
             {"name": "loeffel", "code": "🥄"},
+            {"name": "lupe", "code": "🔍"},
             {"name": "leopard", "code": "🐆"},
             {"name": "lama", "code": "🦙"},
             {"name": "loewe", "code": "🦁"}
@@ -154,13 +159,16 @@
             {"name": "maus", "code": "🐭"},
             {"name": "messer", "code": "🔪"},
             {"name": "melone", "code": "🍈"},
+            {"name": "mund", "code": "👄"},
             {"name": "maikaefer", "code": "🐞"},
+            {"name": "muetze", "code": "🧢"},
             {"name": "mond", "code": "🌙"}
         ],
         "n": [
             {"name": "nadel", "code": "🪡"},
             {"name": "niederlande", "code": "🇳🇱"},
             {"name": "nilpferd", "code": "🦛"},
+            {"name": "nase", "code": "👃"},
             {"name": "null", "code": "0", "classes": "number"},
             {"name": "nashorn", "code": "🦏"},
             {"name": "neun", "code": "9", "classes": "number"}
@@ -223,6 +231,7 @@
             {"name": "schleife", "code": "🎀"},
             {"name": "schmetterling", "code": "🦋"},
             {"name": "schwan", "code": "🦢"},
+            {"name": "schneemann", "code": "☃️"},
             {"name": "schwein", "code": "🐖"},
             {"name": "schaf", "code": "🐑"},
             {"name": "schwarz", "fill": "black"}
@@ -300,6 +309,7 @@
             {"name": "zehn", "code": "10", "classes": "number"},
             {"name": "zug", "code": "🚅"},
             {"name": "zitrone", "code": "🍋"},
+            {"name": "zylinder", "code": "🎩"},
             {"name": "ziege", "code": "🐐"},
             {"name": "zebrastreifen", "width": 100, "offsets": {"x": 0, "y": 0}}
         ],
