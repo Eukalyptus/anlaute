@@ -5,6 +5,11 @@ text {
     text-anchor: middle;
 }
 
+#credit {
+    fill: #aaa;
+    font-size: 6px;
+}
+
 .number {
     fill: white;
     letter-spacing: -.1em;
@@ -14,7 +19,7 @@ text {
 }
 
 .color {
-    stroke: black;
+    stroke: #101010;
     stroke-width: 6px;
 }
 
