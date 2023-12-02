@@ -10,6 +10,7 @@
             {"name": "affe", "code": "🐒"},
             {"name": "ampel", "code": "&#x1F6A6;"},
             {"name": "ameise", "code": "&#x1F41C;"},
+            {"name": "arzt", "code": "👩‍⚕️"},
             {"name": "acht", "code": "8", "classes": "number"},
             {"name": "adler", "code": "&#x1F985;"},
             {"name": "ananas", "code": "&#x1F34D;"}
@@ -40,6 +41,7 @@
         ],
         "c": [
             {"name": "clown", "code": "🤡"},
+            {"name": "cool", "code": "&#x1F60E;"},
             {"name": "cent", "width": 100, "offsets": {"x": 0, "y": 0}},
             {"name": "crep", "width": 60, "offsets": {"x": 15, "y": -5}},
             {"name": "cola", "width": 41, "offsets": {"x": 20, "y": -15}},
@@ -92,6 +94,7 @@
             {"name": "fahne", "code": "🏳️"},
             {"name": "frosch", "code": "🐸"},
             {"name": "fuchs", "code": "🦊"},
+            {"name": "fuß", "code": "🦶"},
             {"name": "faultier", "code": "🦥"},
             {"name": "fee", "code": "🧚"},
             {"name": "fisch", "code": "🐟"},
@@ -139,6 +142,7 @@
             {"name": "kuerbis", "code": "🎃"},
             {"name": "kuchen", "code": "🍰"},
             {"name": "koala", "code": "🐨"},
+            {"name": "knoten", "code": "🪢"},
             {"name": "kroodil", "code": "🐊"},
             {"name": "kiefer", "code": "🌲"},
             {"name": "kuh", "code": "🐄"},
@@ -176,6 +180,7 @@
         "o": [
             {"name": "orange", "code": "🍊"},
             {"name": "otter", "code": "🦦"},
+            {"name": "ohr", "code": "👂"},
             {"name": "ochse", "code": "🐂"},
             {"name": "oktopus", "code": "🐙"},
             {"name": "orangutan", "code": "🦧"},
@@ -216,12 +221,14 @@
             {"name": "rose", "code": "🌹"},
             {"name": "rechts", "code": "➡"},
             {"name": "rakete", "code": "🚀"},
+            {"name": "rollschuh", "code": "🛼"},
             {"name": "robbe", "code": "🦭"},
             {"name": "rot", "fill": "red"}
         ],
         "s": [
             {"name": "saege", "code": "🪚"},
             {"name": "sonnenblume", "code": "🌻"},
+            {"name": "sandale", "code": "🩴"},
             {"name": "sechs", "code": "6", "classes": "number"},
             {"name": "sieben", "code": "7", "classes": "number"},
             {"name": "sonne", "code": "🌞"}
@@ -250,6 +257,7 @@
         "st": [
             {"name": "stern", "code": "⭐"},
             {"name": "stein", "code": "🪨"},
+            {"name": "stiefel", "code": "👢"},
             {"name": "stinktier", "code": "🦨"},
             {"name": "stopp", "code": "🛑"},
             {"name": "stadium", "code": "🏟️"}
@@ -258,6 +266,7 @@
             {"name": "taco", "code": "🌮"},
             {"name": "tanne", "code": "🌲"},
             {"name": "taxi", "code": "🚕"},
+            {"name": "turnschuh", "code": "👟"},
             {"name": "tiger", "code": "🐅"},
             {"name": "trampeltier", "code": "🐫"},
             {"name": "tintenfisch", "code": "🦑"},
