@@ -6,13 +6,13 @@ const lang = !urlParams.has('lang') ? 'de' : urlParams.get('lang');
 
 const data = {};
 
-fetch('assets/'+ lang +'.json')
+fetch('assets/'+ lang +"/"+ lang +'.json')
     .then(response => response.json())
     .then(init)
     .then(update);
 
 function init(json) {
-    data.anlaute = new Anlaute(json.anlaute);
+    data.anlaute = new Anlaute(json.dict);
     data.dict = json.dict;
 
     document.querySelector('#prev').textContent = json.prevButtonLabel;
@@ -44,18 +44,20 @@ function playVoice(event) {
 }
 
 class Anlaute {
-    #values;
+    #labels = [];
 
-    constructor(values) {
-        this.#values = values;
+    constructor(dict) {
+        for (let label in dict) {
+            this.#labels.push(label);
+        }
     }
 
     #get(letter, offset) {
-        let index = this.#values.indexOf(letter) + offset;
+        let index = this.#labels.indexOf(letter) + offset;
 
-        index = index < 0 ? this.#values.length - 1 : index % this.#values.length;
+        index = index < 0 ? this.#labels.length - 1 : index % this.#labels.length;
 
-        return this.#values[index];
+        return this.#labels[index];
     }
 
     next(letter) {

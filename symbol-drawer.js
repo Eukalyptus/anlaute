@@ -18,7 +18,7 @@ function drawSymbols(anlaut) {
         if (symbols[i].fill)
             $element = createColor(symbols[i], textCenters[i]);
 
-        $element.dataset.audioSource = 'assets/'+ anlaut +'/'+ symbols[i].name +'.m4a';
+        $element.dataset.audioSource = 'assets/'+ lang +"/"+ anlaut +'/'+ symbols[i].name +'.m4a';
         $symbols.appendChild($element);
 
         if (symbols[i].focus) {
@@ -55,7 +55,7 @@ function createEmoji(symbol, position) {
 function createImage(anlaut, symbol, position) {
     const $image = document.createElementNS('http://www.w3.org/2000/svg', 'image');
     
-    $image.setAttribute('href', 'assets/'+ anlaut +'/'+ symbol.name +'.svg');
+    $image.setAttribute('href', 'assets/'+ lang +"/"+ anlaut +'/'+ symbol.name +'.svg');
     $image.setAttribute('width', symbol.width);
     $image.setAttribute('x', position.x + symbol.offsets.x);
     $image.setAttribute('y', position.y + symbol.offsets.y);
