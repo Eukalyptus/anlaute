@@ -1,0 +1,109 @@
+{
+    "prevButtonLabel": "prev",
+    "nextButtonLabel": "next",
+    "dict": {
+        "a": [
+            {"name": "apple", "code": "&#x1F34E;"},
+            {"name": "ant", "code": "&#x1F41C;"}
+        ],
+        "b": [
+            {"name": "boar", "code": "🐗"},
+            {"name": "bat", "code": "🦇"},
+            {"name": "badger", "code": "🦡"},
+            {"name": "bear", "code": "🐻"},
+            {"name": "beaver", "code": "🐇"}
+        ],
+        "c": [
+            {"name": "cat", "code": "🐈"},
+            {"name": "camel", "code": "🐫"},
+            {"name": "cow", "code": "🐄"}
+        ],
+        "d": [
+            {"name": "dog", "code": "🐕"},
+            {"name": "deer", "code": "🦌"},
+            {"name": "deer", "code": "🦌"},
+            {"name": "duck", "code": "🦆"},
+            {"name": "dromedar", "code": "🐐"}
+        ],
+        "e": [
+            {"name": "elefant", "code": "🐘"},
+            {"name": "eagle", "code": "🦅"}
+        ],
+        "f": [
+            {"name": "fox", "code": "🦊"},
+            {"name": "feater", "code": "🪶"},
+            {"name": "flamingo", "code": "🦩"}
+        ],
+        "g": [
+            {"name": "gorilla", "code": "🦍"},
+            {"name": "giraffe", "code": "🦒"},
+            {"name": "goose", "code": "🪿"},
+            {"name": "goat", "code": "🐐"}
+        ],
+        "h": [
+            {"name": "horse", "code": "🐎"},
+            {"name": "hamster", "code": "🐹"},
+            {"name": "hedgehog", "code": "🦔"},
+            {"name": "hippo", "code": "🦛"}
+        ],
+        "i": [
+            {"name": "icebear", "code": "🐻‍❄️"}
+        ],
+        "k": [
+            {"name": "koala", "code": "🐨"},
+            {"name": "kangaroo", "code": "🦘"}
+        ],
+        "l": [
+            {"name": "llama", "code": "🦙"}
+        ],
+        "m": [
+            {"name": "monkey", "code": "🐒"},
+            {"name": "mouse", "code": "🐭"},
+            {"name": "moose", "code": "🫎"}
+        ],
+        "n": [
+            {"name": "nest", "code": "🪺"}
+        ],
+        "o": [
+            {"name": "orangutan", "code": "🦧"},
+            {"name": "otter", "code": "🦦"},
+            {"name": "owl", "code": "🦉"},
+            {"name": "ox", "code": "🐂"}
+        ],
+        "p": [
+            {"name": "poodle", "code": "🐩"},
+            {"name": "panda", "code": "🐼"},
+            {"name": "peacock", "code": "🦚"},
+            {"name": "parrot", "code": "🦜"},
+            {"name": "pig", "code": "🐖"}
+        ],
+        "r": [
+            {"name": "racoon", "code": "🦝"},
+            {"name": "rat", "code": "🐀"},
+            {"name": "rabbit", "code": "🐇"},
+            {"name": "rhino", "code": "🦏"}
+        ],
+        "s": [
+            {"name": "sloth", "code": "🦥"},
+            {"name": "swan", "code": "🦢"}
+        ],
+        "sh": [
+            {"name": "sheep", "code": "🐑"}
+        ],
+        "sk": [
+            {"name": "skunk", "code": "🦨"}
+        ],
+        "t": [
+            {"name": "tiger", "code": "🐅"}
+        ],
+        "u": [
+            {"name": "unicorn", "code": "🦄"}
+        ],
+        "w": [
+            {"name": "wulf", "code": "🐺"}
+        ],
+        "z": [
+            {"name": "zebra", "code": "🦓"}
+        ]
+    }
+}
