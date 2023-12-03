@@ -4,34 +4,47 @@
     "dict": {
         "a": [
             {"name": "apple", "code": "&#x1F34E;"},
+            {"name": "arm", "code": "💪"},
             {"name": "ant", "code": "&#x1F41C;"}
         ],
         "b": [
             {"name": "boar", "code": "🐗"},
             {"name": "bat", "code": "🦇"},
             {"name": "badger", "code": "🦡"},
+            {"name": "bee", "code": "🐝"},
             {"name": "bear", "code": "🐻"},
+            {"name": "butterfly", "code": "🦋"},
             {"name": "beaver", "code": "🐇"}
         ],
         "c": [
             {"name": "cat", "code": "🐈"},
             {"name": "camel", "code": "🐫"},
+            {"name": "cloud", "code": "☁️"},
+            {"name": "crab", "code": "🦀"},
+            {"name": "crocodile", "code": "🐊"},
+            {"name": "cricket", "code": "🦗"},
             {"name": "cow", "code": "🐄"}
         ],
         "d": [
             {"name": "dog", "code": "🐕"},
             {"name": "deer", "code": "🦌"},
-            {"name": "deer", "code": "🦌"},
+            {"name": "dragon", "code": "🐉"},
+            {"name": "dolphin", "code": "🐬"},
             {"name": "duck", "code": "🦆"},
             {"name": "dromedar", "code": "🐐"}
         ],
         "e": [
             {"name": "elefant", "code": "🐘"},
+            {"name": "eye", "code": "👁️"},
+            {"name": "ear", "code": "👂"},
             {"name": "eagle", "code": "🦅"}
         ],
         "f": [
             {"name": "fox", "code": "🦊"},
             {"name": "feater", "code": "🪶"},
+            {"name": "foot", "code": "🦶"},
+            {"name": "fist", "code": "✊"},
+            {"name": "frog", "code": "🐸"},
             {"name": "flamingo", "code": "🦩"}
         ],
         "g": [
@@ -44,25 +57,36 @@
             {"name": "horse", "code": "🐎"},
             {"name": "hamster", "code": "🐹"},
             {"name": "hedgehog", "code": "🦔"},
+            {"name": "hand", "code": "🖐️"},
             {"name": "hippo", "code": "🦛"}
         ],
         "i": [
             {"name": "icebear", "code": "🐻‍❄️"}
+        ],
+        "j": [
+            {"name": "jellyfish", "code": "🪼"}
         ],
         "k": [
             {"name": "koala", "code": "🐨"},
             {"name": "kangaroo", "code": "🦘"}
         ],
         "l": [
-            {"name": "llama", "code": "🦙"}
+            {"name": "llama", "code": "🦙"},
+            {"name": "lobster", "code": "🦞"},
+            {"name": "lady bird", "code": "🐞"},
+            {"name": "leg", "code": "🦵"},
+            {"name": "lizard", "code": "🦎"}
         ],
         "m": [
             {"name": "monkey", "code": "🐒"},
             {"name": "mouse", "code": "🐭"},
+            {"name": "moon", "code": "🌝"},
+            {"name": "mouth", "code": "👄"},
             {"name": "moose", "code": "🫎"}
         ],
         "n": [
-            {"name": "nest", "code": "🪺"}
+            {"name": "nest", "code": "🪺"},
+            {"name": "nose", "code": "👃"}
         ],
         "o": [
             {"name": "orangutan", "code": "🦧"},
@@ -81,26 +105,49 @@
             {"name": "racoon", "code": "🦝"},
             {"name": "rat", "code": "🐀"},
             {"name": "rabbit", "code": "🐇"},
+            {"name": "rainbow", "code": "🌈"},
             {"name": "rhino", "code": "🦏"}
         ],
         "s": [
             {"name": "sloth", "code": "🦥"},
+            {"name": "seal", "code": "🦭"},
+            {"name": "scorpion", "code": "🦂"},
+            {"name": "sun", "code": "🌞"},
             {"name": "swan", "code": "🦢"}
         ],
         "sh": [
-            {"name": "sheep", "code": "🐑"}
+            {"name": "sheep", "code": "🐑"},
+            {"name": "shrimp", "code": "🦐"},
+            {"name": "shark", "code": "🦈"}
         ],
         "sk": [
             {"name": "skunk", "code": "🦨"}
         ],
+        "sn": [
+            {"name": "snail", "code": "🐌"},
+            {"name": "snake", "code": "🐍"}
+        ],
+        "sp": [
+            {"name": "spider", "code": "🕷️"}
+        ],
+        "sq": [
+            {"name": "squid", "code": "🦑"}
+        ],
         "t": [
-            {"name": "tiger", "code": "🐅"}
+            {"name": "tiger", "code": "🐅"},
+            {"name": "tooth", "code": "🦷"},
+            {"name": "turtle", "code": "🐢"}
         ],
         "u": [
-            {"name": "unicorn", "code": "🦄"}
+            {"name": "unicorn", "code": "🦄"},
+            {"name": "umbrella", "code": "☂️"}
         ],
         "w": [
-            {"name": "wulf", "code": "🐺"}
+            {"name": "wolf", "code": "🐺"},
+            {"name": "web", "code": "🕸️"},
+            {"name": "worm", "code": "🪱"},
+            {"name": "wave", "code": "🌊"},
+            {"name": "whale", "code": "🐋"}
         ],
         "z": [
             {"name": "zebra", "code": "🦓"}
