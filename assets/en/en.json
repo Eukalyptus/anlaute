@@ -5,6 +5,7 @@
         "a": [
             {"name": "apple", "code": "&#x1F34E;"},
             {"name": "arm", "code": "💪"},
+            {"name": "accordion", "code": "🪗"},
             {"name": "ant", "code": "&#x1F41C;"}
         ],
         "b": [
@@ -13,6 +14,7 @@
             {"name": "badger", "code": "🦡"},
             {"name": "bee", "code": "🐝"},
             {"name": "bear", "code": "🐻"},
+            {"name": "banjo", "code": "🪕"},
             {"name": "butterfly", "code": "🦋"},
             {"name": "beaver", "code": "🐇"}
         ],
@@ -28,6 +30,7 @@
         "d": [
             {"name": "dog", "code": "🐕"},
             {"name": "deer", "code": "🦌"},
+            {"name": "drum", "code": "🥁"},
             {"name": "dragon", "code": "🐉"},
             {"name": "dolphin", "code": "🐬"},
             {"name": "duck", "code": "🦆"},
@@ -45,12 +48,14 @@
             {"name": "foot", "code": "🦶"},
             {"name": "fist", "code": "✊"},
             {"name": "frog", "code": "🐸"},
+            {"name": "flute", "code": "🪈"},
             {"name": "flamingo", "code": "🦩"}
         ],
         "g": [
             {"name": "gorilla", "code": "🦍"},
             {"name": "giraffe", "code": "🦒"},
             {"name": "goose", "code": "🪿"},
+            {"name": "guitar", "code": "🎸"},
             {"name": "goat", "code": "🐐"}
         ],
         "h": [
@@ -58,6 +63,7 @@
             {"name": "hamster", "code": "🐹"},
             {"name": "hedgehog", "code": "🦔"},
             {"name": "hand", "code": "🖐️"},
+            {"name": "horn", "code": "📯"},
             {"name": "hippo", "code": "🦛"}
         ],
         "i": [
@@ -82,6 +88,7 @@
             {"name": "mouse", "code": "🐭"},
             {"name": "moon", "code": "🌝"},
             {"name": "mouth", "code": "👄"},
+            {"name": "microphone", "code": "🎙️"},
             {"name": "moose", "code": "🫎"}
         ],
         "n": [
@@ -106,6 +113,7 @@
             {"name": "rat", "code": "🐀"},
             {"name": "rabbit", "code": "🐇"},
             {"name": "rainbow", "code": "🌈"},
+            {"name": "radio", "code": "📻"},
             {"name": "rhino", "code": "🦏"}
         ],
         "s": [
@@ -113,6 +121,7 @@
             {"name": "seal", "code": "🦭"},
             {"name": "scorpion", "code": "🦂"},
             {"name": "sun", "code": "🌞"},
+            {"name": "saxophone", "code": "🎷"},
             {"name": "swan", "code": "🦢"}
         ],
         "sh": [
@@ -136,11 +145,15 @@
         "t": [
             {"name": "tiger", "code": "🐅"},
             {"name": "tooth", "code": "🦷"},
+            {"name": "trumpet", "code": "🎺"},
             {"name": "turtle", "code": "🐢"}
         ],
         "u": [
             {"name": "unicorn", "code": "🦄"},
             {"name": "umbrella", "code": "☂️"}
+        ],
+        "v": [
+            {"name": "violin", "code": "🎻"}
         ],
         "w": [
             {"name": "wolf", "code": "🐺"},

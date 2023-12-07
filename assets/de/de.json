@@ -10,6 +10,7 @@
             {"name": "ampel", "code": "&#x1F6A6;"},
             {"name": "ameise", "code": "&#x1F41C;"},
             {"name": "arzt", "code": "👩‍⚕️"},
+            {"name": "akkordeon", "code": "🪗"},
             {"name": "acht", "code": "8", "classes": "number"},
             {"name": "adler", "code": "&#x1F985;"},
             {"name": "ananas", "code": "&#x1F34D;"}
@@ -36,6 +37,7 @@
             {"name": "biene", "code": "🐝"},
             {"name": "bieber", "code": "🦫"},
             {"name": "bock", "code": "🐏"},
+            {"name": "banjo", "code": "🪕"},
             {"name": "blau", "fill": "blue"}
         ],
         "c": [
@@ -96,6 +98,7 @@
             {"name": "fuß", "code": "🦶"},
             {"name": "faultier", "code": "🦥"},
             {"name": "fee", "code": "🧚"},
+            {"name": "flöte", "code": "🪈"},
             {"name": "fisch", "code": "🐟"},
             {"name": "flugzeug", "code": "✈️"},
             {"name": "fuenf", "code": "5", "classes": "number"}
@@ -107,6 +110,7 @@
             {"name": "geist", "code": "👻"},
             {"name": "gorilla", "code": "🦍"},
             {"name": "gans", "code": "🪿"},
+            {"name": "gitarre", "code": "🎸"},
             {"name": "gruen", "fill": "green"},
             {"name": "grau", "fill": "gray"},
             {"name": "gelb", "fill": "yellow"}
@@ -119,6 +123,7 @@
             {"name": "huhn", "code": "🐔"},
             {"name": "hummer", "code": "🦞"},
             {"name": "hut", "code": "👒"},
+            {"name": "horn", "code": "📯"},
             {"name": "hai", "code": "🦈"},
             {"name": "hahn", "code": "🐓"}
         ],
@@ -165,6 +170,7 @@
             {"name": "mund", "code": "👄"},
             {"name": "maikaefer", "code": "🐞"},
             {"name": "muetze", "code": "🧢"},
+            {"name": "mikrophon", "code": "🎙️"},
             {"name": "mond", "code": "🌙"}
         ],
         "n": [
@@ -222,12 +228,15 @@
             {"name": "rakete", "code": "🚀"},
             {"name": "rollschuh", "code": "🛼"},
             {"name": "robbe", "code": "🦭"},
+            {"name": "radio", "code": "📻"},
+            {"name": "regenbogen", "code": "🌈"},
             {"name": "rot", "fill": "red"}
         ],
         "s": [
             {"name": "saege", "code": "🪚"},
             {"name": "sonnenblume", "code": "🌻"},
             {"name": "sandale", "code": "🩴"},
+            {"name": "saxophon", "code": "🎷"},
             {"name": "sechs", "code": "6", "classes": "number"},
             {"name": "sieben", "code": "7", "classes": "number"},
             {"name": "sonne", "code": "🌞"}
@@ -270,6 +279,8 @@
             {"name": "trampeltier", "code": "🐫"},
             {"name": "tintenfisch", "code": "🦑"},
             {"name": "tomate", "code": "🍅"},
+            {"name": "trompete", "code": "🎺"},
+            {"name": "trommel", "code": "🥁"},
             {"name": "traube", "code": "🍇"}
         ],
         "th": [
@@ -292,6 +303,7 @@
             {"name": "vogel", "code": "🐦"},
             {"name": "vier", "code": "4", "classes": "number"},
             {"name": "vollmond", "code": "🌕"},
+            {"name": "violine", "code": "🎻"},
             {"name": "violet", "fill": "violet"}
         ],
         "w": [
@@ -301,6 +313,7 @@
             {"name": "wuerfel", "code": "🎲"},
             {"name": "waschbaer", "code": "🦝"},
             {"name": "wal", "code": "🐋"},
+            {"name": "wolke", "code": "☁️"},
             {"name": "weiss", "fill": "white"}
         ],
         "x": [
