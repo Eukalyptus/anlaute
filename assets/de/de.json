@@ -2,7 +2,7 @@
     "prevButtonLabel": "zurück",
     "nextButtonLabel": "weiter",
     "dict": {
-        "a" : [
+        "a": [
             {"name": "apfel", "code": "&#x1F34E;"},
             {"name": "ahorn", "code": "&#x1F341;"},
             {"name": "arm", "code": "💪"},
@@ -15,7 +15,7 @@
             {"name": "adler", "code": "&#x1F985;"},
             {"name": "ananas", "code": "&#x1F34D;"}
         ],
-        "ä" : [
+        "ä": [
             {"name": "aegypten", "width": 100, "offsets": {"x": 0, "y": 15}},
             {"name": "aehre", "code": "&#x1F33E;"},
             {"name": "aerger", "code": "&#x1F620;"},
